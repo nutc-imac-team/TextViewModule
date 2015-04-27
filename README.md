@@ -16,8 +16,9 @@
 
 3.將字串變成跑馬燈
 
+##示意圖
 
-![demo1](./demo1.png)
+![demo1](./demo1.png)   ![demo2](./demo2.png)
 
 
 ##使用說明
